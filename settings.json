@@ -1,0 +1,23 @@
+{
+  "workbench.colorTheme": "Complementary Theme",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "extensions.ignoreRecommendations": true,
+  "workbench.colorCustomizations": {
+    "[Complementary Theme]": {
+      "sideBar.background": "#000000",
+      "editor.wordHighlightBorder": "#ff0000",
+      "editor.selectionHighlightBorder": "#ff0000",
+      "editor.hoverHighlightBackground": "#000000",
+      "editor.findMatchBorder": "#37ff00",
+      "editor.background": "#001f2a"
+    }
+  },
+  "editor.fontFamily": "monospace",
+  "window.zoomLevel": 1
+}
